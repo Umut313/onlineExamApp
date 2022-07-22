@@ -39,7 +39,6 @@ ul li{
 }
 ul li label{
     cursor: pointer;
-    margin:0;
 }
 button{
     background-color: rgb(204, 90, 44);
